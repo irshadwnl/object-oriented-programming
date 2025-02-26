@@ -2,9 +2,9 @@
 // Program to Simulate Student Report
 
 public class Student {
-    private String name;
-    private int rollNumber;
-    private int marks;
+    String name;
+    int rollNumber;
+    int marks;
     Student(String name,int rollNumber,int marks){
         this.name=name;
         this.rollNumber=rollNumber;
